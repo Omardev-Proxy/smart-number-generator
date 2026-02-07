@@ -12,6 +12,11 @@ Smart Number Generator is a simple web application that generates phone numbers 
 [App Screenshot](screenshots/ui.png)
 
 ---
+## How to Run Locally
+1. Install XAMPP or any PHP server
+2. Put the project folder in htdocs
+3. Start Apache
+4. Open http://localhost/smart-number-generator
 
 ##  Features
 - Generate phone numbers from patterns like `+21261614xxxx`
@@ -52,4 +57,5 @@ smart-number-generator/
    - Example: `+21261614xxxx,+21261615xxxx`
 3. Click **Generate**
 4. Copy or download the generated numbers
+
 
