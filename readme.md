@@ -9,7 +9,7 @@ Smart Number Generator is a simple web application that generates phone numbers 
 - 🐦 X (Twitter): https://x.com/Omardev_proxy  
 - 💬 Telegram: https://t.me/OmarDev_proxy
 
-[App Screenshot] (screenshots/ui.png)
+[App Screenshot](screenshots/ui.png)
 
 ---
 
@@ -52,3 +52,4 @@ smart-number-generator/
    - Example: `+21261614xxxx,+21261615xxxx`
 3. Click **Generate**
 4. Copy or download the generated numbers
+
